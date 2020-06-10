@@ -1,3 +1,7 @@
 Autor:Jan Jarcuska
 Nazov:Gitkodicek
 Datum:1.6.2020
+----
+Toto je jedna zo zopar viet.
+Druha veta zaujimava.
+Uvod skoncil.
