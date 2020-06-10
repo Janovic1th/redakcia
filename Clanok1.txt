@@ -10,6 +10,6 @@ Druhy obsah zacina.
 Jadro obsahu cislo dva.
 Obsah zaver.
 ----
-Druhy zaver sa zacal.
-Tu dakujem
-Zaver druhy konci.
+Prvy zaver verzie.
+Obsah prveho zaveru.
+Vdaka za citanie.
