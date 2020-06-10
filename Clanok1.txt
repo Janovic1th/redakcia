@@ -2,9 +2,9 @@ Autor:Jan Jarcuska
 Nazov:Gitdaco
 Datum:1.6.2020
 ----
-Druhy uvod tu zacina.
-Zaujivy druhy uvod.
-Som tu v uvode-
+Toto je jedna zo zopar viet.
+Druha veta zaujimava.
+Uvod skoncil.
 ----
 Druhy obsah zacina.
 Jadro obsahu cislo dva.
