@@ -9,3 +9,7 @@ Uvod skoncil.
 Druhy obsah zacina.
 Jadro obsahu cislo dva.
 Obsah zaver.
+----
+Prvy zaver verzie.
+Obsah prveho zaveru.
+Vdaka za citanie.
